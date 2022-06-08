@@ -6,5 +6,6 @@ public class git {
         System.out.println("修改咯");
         System.out.println("Version3");
         System.out.println("hello by hot-fix");
+        System.out.println("!hot-fix!");
     }
 }
