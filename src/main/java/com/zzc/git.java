@@ -9,5 +9,6 @@ public class git {
         System.out.println("!Master!");
         System.out.println("!hot-fix!");
         System.out.println("测试push");
+        System.out.println("GitHub修改");
     }
 }
